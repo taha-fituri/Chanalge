@@ -1,0 +1,19 @@
+.divcard {
+  display: flex;
+  justify-content: space-around;
+  align-items: baseline;
+  padding-top: 2%;
+  margin: 0 9%;
+  flex-wrap: wrap;
+}
+.totalprice {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: x-large;
+  margin: 2%;
+  background-color: rgb(203, 233, 222);
+  border-radius: 10px;
+  width: 600px;
+  height: 100px;
+}

@@ -1,0 +1,25 @@
+.mainfooter {
+  background-color: #f8f9fa;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding-top: 2%;
+  padding-left: 9%;
+  /* padding-left: 5%; */
+}
+.fa-brands {
+  font-size: x-large !important;
+}
+.fa-twitter {
+  color: #1da1f2;
+}
+.fa-facebook {
+  color: #4867aa;
+}
+.fa-instagram-square {
+  color: #a92fbe;
+}
+.fa-linkedin {
+  color: #0077b5;
+}
